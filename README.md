@@ -1,1 +1,1 @@
-# Competitive-Programming
+# Online Judge Solutions
